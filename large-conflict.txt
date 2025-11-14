@@ -8,3 +8,13 @@ Line 7 from feature-A
 Line 8 from feature-A
 Line 9 from feature-A
 Line 10 from feature-A
+This is feature-B version
+Line 2 from feature-B
+Line 3 from feature-B
+Line 4 from feature-B
+Line 5 from feature-B
+Line 6 from feature-B
+Line 7 from feature-B
+Line 8 from feature-B
+Line 9 from feature-B
+Line 10 from feature-B
