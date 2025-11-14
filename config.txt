@@ -1,3 +1,6 @@
 Configuration version: 4.0
 Feature: Basic Settings
 Author: Main Team
+Configuration version: 5.0
+Feature: Advanced Settings
+Author: Feature-5 Team
